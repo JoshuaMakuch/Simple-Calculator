@@ -2,7 +2,7 @@
 'RCET0265
 'Fall 2023
 'Simple Calculator
-'
+'https://github.com/JoshuaMakuch/Simple-Calculator.git
 Imports System
 
 Module Program
